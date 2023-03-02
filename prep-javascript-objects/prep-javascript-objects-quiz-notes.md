@@ -6,7 +6,11 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 - What data types can object properties hold?
 
+strings, numbers, other objects, arrays, and functions
+
 - Describe the syntax (structure) of object-literals in JavaScript.
+
+It is a collection of key value pairs.
 
 ## Notes
 
